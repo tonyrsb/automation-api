@@ -1,0 +1,10 @@
+{
+    "successOK":{
+        "codeNumber": 200,
+        "codeMessage": "OK"
+    },
+    "successCreated":{
+        "codeNumber": 201,
+        "codeMessage": "Created"
+    }
+}
