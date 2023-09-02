@@ -5,7 +5,7 @@
     "main": "index.js",
     "license": "ISC",
     "scripts": {
-        "test-automation-api": "./node_modules/mocha/bin/mocha ./test --recursive --reporter mochawesome --reporter-options reportDir=reports/rll-insurance-service/mochawesome/ --timeout 30000"
+        "test-automation-api": "./node_modules/mocha/bin/mocha ./test --recursive --reporter mochawesome --reporter-options reportDir=reports/mochawesome/ --timeout 30000"
     },
     "husky": {
         "hooks": {
